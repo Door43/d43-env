@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[env:home|Door43 (env)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-env|d43-env repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-env/archive/master.zip|d43-env.zip]]
+
+**Recent Changes**
+{{changes>ns = env}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/env|Ethnologue data]]
+
